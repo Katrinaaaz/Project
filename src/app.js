@@ -17,5 +17,9 @@ const App = () => {
         </div>
     )
 }
+// Додаємо нову функцію для обчислення суми
+function calculateSum(a, b) {
+    return a + b;
+}
 
 export default App
